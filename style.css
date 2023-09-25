@@ -1,0 +1,61 @@
+body {
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    background: rgb(226, 168, 226);
+    color: black;
+    width: 100%;
+    padding: 15px;
+    border-bottom: 2px solid purple;
+    border-top: 2px solid purple;
+}
+
+.box {
+    display: flex;
+}
+
+.item {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(154, 222, 182);
+    border: 2px solid rgb(231, 178, 187);
+    padding: 5px;
+    margin: 10px;  
+    box-shadow: 2px 5px 5px rgb(50, 69, 50); color:purple;
+}
+
+.rubrik {
+ color:black;
+}
+
+main {
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+ul{
+    color:black
+}
+
+p {
+font-family:Georgia, 'Times New Roman', Times, serif
+    color: purple
+}
+
+h3 {
+    color: rgb(107, 42, 114);
+    font-size: 1,5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 10px; 
+    }
+  
+h1 {
+color: rgb(164, 48, 104)
+
+}
