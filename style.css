@@ -21,7 +21,7 @@ header {
 
 .item {
     width: 250px;
-    height: 150px;
+    height: auto2,;
     background-color: rgb(154, 222, 182);
     border: 2px solid rgb(231, 178, 187);
     padding: 5px;
@@ -58,4 +58,15 @@ h3 {
 h1 {
 color: rgb(164, 48, 104)
 
+}
+
+footer {
+    top: 0;
+    left: 0;
+    background: rgb(226, 168, 226);
+    color: black;
+    width: 100%;
+    padding: 15px;
+    border-bottom: 2px solid purple;
+    border-top: 2px solid purple;
 }
